@@ -3,6 +3,8 @@ public class Main {
     
 
     System.out.println("It is fffff!");
+    System.out.println("It is fffff!");
+
 
     System.out.println("It is hhii!");
 
